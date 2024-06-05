@@ -6,7 +6,7 @@ Skills: Objective-C/C++/Swift/Javascript/TypeScript/Rust
 
 - 🔭 I’m currently working on a bunch of SwiftUI and Combine posts 
 - 🌱 I’m currently learning about Computational Thinking (https://computationalthinking.mit.edu/Spring21) 
-- 💬 Ask me about Objective-C/Swift/JS/Jenkins 
+- 💬 Ask me about TS/React/Objective-C/C++/Jenkins
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ingorichter)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ingorichter/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/wayne.schlegel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ingorichter)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/irichter)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.ingo-richter.io)  
