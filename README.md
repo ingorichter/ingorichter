@@ -5,7 +5,7 @@ I love to learn and experiment with all kinds of stuff.
 Skills: Objective-C/C++/Swift/Javascript/TypeScript/Rust
 
 - 🔭 I’m currently working on a bunch of SwiftUI and Combine posts 
-- 🌱 I’m currently learning about Computational Thinking (https://computationalthinking.mit.edu/Spring21) 
+- 🌱 I’m currently learning about Computational Thinking (https://computationalthinking.mit.edu/Fall23)
 - 💬 Ask me about TS/React/Objective-C/C++/Jenkins
 
 
