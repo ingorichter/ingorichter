@@ -1,14 +1,4 @@
-### Hi there 👋, I'm Ingo
-#### I am a Sr. Computer Scientist (just a fancy title for a "Software Engineer" that has seen a lot of sh.. hit the fan ;-)) working on Analytics and Custom Models at Adobe
-I love to learn and experiment with all kinds of stuff.
-
-Skills: Objective-C/C++/Swift/Javascript/TypeScript/Rust
-
-- 🔭 I’m currently working on a bunch of SwiftUI and Combine posts 
-- 🌱 I’m currently learning about Computational Thinking (https://computationalthinking.mit.edu/Fall23)
-- 💬 Ask me about TS/React/Objective-C/C++/Jenkins
-
-# Hi, I'm Ingo 👋
+# Hi there, I'm Ingo 👋
 
 Senior Computer Scientist @ Adobe | OSS Contributor | 3D Printing Enthusiast | Road Cyclist
 
@@ -26,7 +16,7 @@ I love solving problems, building tools, and sharing knowledge.
 
 ### 🗓 Recent GitHub Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ingorichter&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ingorichter&theme=github-compact)
 
 ---
 
