@@ -8,6 +8,28 @@ Skills: Objective-C/C++/Swift/Javascript/TypeScript/Rust
 - 🌱 I’m currently learning about Computational Thinking (https://computationalthinking.mit.edu/Fall23)
 - 💬 Ask me about TS/React/Objective-C/C++/Jenkins
 
+# Hi, I'm Ingo 👋
+
+Senior Computer Scientist @ Adobe | OSS contributor | 3D printing & cycling nerd 🚴‍♂️
+
+---
+
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ingorichter&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingorichter&layout=compact&theme=tokyonight)
+
+---
+
+### 🗓 Recent GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ingorichter&theme=github-compact)
+
+---
+
+### 📬 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ingorichter)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ingorichter/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/wayne.schlegel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ingorichter)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/irichter)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.ingo-richter.io)  
 
