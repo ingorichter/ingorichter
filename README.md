@@ -8,9 +8,9 @@ I love solving problems, building tools, and sharing knowledge.
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ingorichter&show_icons=true&theme=tokyonight&hide=contribs&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ingorichter&layout=compact&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ingorichter&show_icons=true&theme=tokyonight&hide=contribs&count_private=true)
 
 ---
 
