@@ -22,6 +22,11 @@ I love solving problems, building tools, and sharing knowledge.
 
 ### 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Wallpaper Week 20/2025](https://ingo-richter.io/wallpaper/2025/week-20/)
+- [Adding a Colorful Border Around macOS App Windows](https://ingo-richter.io/post/2024/adding-a-colorful-border-around-macos-windows/)
+- [How to Learn New Things](https://ingo-richter.io/post/2024/how-to-learn-new-things/)
+- [Losing Weight and Improve My Health](https://ingo-richter.io/post/2024/losing-weight-and-improve-my-health/)
+- [What Ingo is up to](https://ingo-richter.io/now/now/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
