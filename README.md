@@ -22,8 +22,8 @@ I love solving problems, building tools, and sharing knowledge.
 
 ### 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Manage Multiple Git Identities With Conditional Includes](https://ingo-richter.io/post/2025/manage-multiple-git-identities-with-conditional-includes/)
 - [What Ingo is up to](https://ingo-richter.io/now/)
+- [Manage Multiple Git Identities With Conditional Includes](https://ingo-richter.io/post/2025/manage-multiple-git-identities-with-conditional-includes/)
 - [Weekly Wallpaper Week 22/2025](https://ingo-richter.io/wallpaper/2025/week-22/)
 - [Weekly Wallpaper Week 20/2025](https://ingo-richter.io/wallpaper/2025/week-20/)
 - [Adding a Colorful Border Around macOS App Windows](https://ingo-richter.io/post/2024/adding-a-colorful-border-around-macos-windows/)
