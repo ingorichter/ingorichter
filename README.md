@@ -22,7 +22,7 @@ I love solving problems, building tools, and sharing knowledge.
 
 ### 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [What Ingo is up to](https://ingo-richter.io/now/)
+- [The Weight of Unfinished Projects](https://ingo-richter.io/post/2025/perfection-is-my-nemesis/)
 - [Manage Multiple Git Identities With Conditional Includes](https://ingo-richter.io/post/2025/manage-multiple-git-identities-with-conditional-includes/)
 - [Weekly Wallpaper Week 22/2025](https://ingo-richter.io/wallpaper/2025/week-22/)
 - [Weekly Wallpaper Week 20/2025](https://ingo-richter.io/wallpaper/2025/week-20/)
